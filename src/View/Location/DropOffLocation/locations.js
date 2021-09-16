@@ -1,0 +1,108 @@
+const locations = [
+  {
+    title: 'Lagos State',
+    locations: [
+      'Ikeja',
+      'Agege',
+      'Shomolu',
+      'Ajah',
+      'Sangotedo',
+      'Lekki',
+      'Marryland',
+      'Ijaye',
+    ],
+  },
+  {
+    title: 'Ogun State',
+    locations: [
+      'Ikeja',
+      'Agege',
+      'Shomolu',
+      'Ajah',
+      'Sangotedo',
+      'Lekki',
+      'Marryland',
+      'Ijaye',
+    ],
+  },
+  {
+    title: 'Osun State',
+    locations: [
+      'Ikeja',
+      'Agege',
+      'Shomolu',
+      'Ajah',
+      'Sangotedo',
+      'Lekki',
+      'Marryland',
+      'Ijaye',
+    ],
+  },
+  {
+    title: 'Ondo State',
+    locations: [
+      'Ikeja',
+      'Agege',
+      'Shomolu',
+      'Ajah',
+      'Sangotedo',
+      'Lekki',
+      'Marryland',
+      'Ijaye',
+    ],
+  },
+  {
+    title: 'Abuja State',
+    locations: [
+      'Ikeja',
+      'Agege',
+      'Shomolu',
+      'Ajah',
+      'Sangotedo',
+      'Lekki',
+      'Marryland',
+      'Ijaye',
+    ],
+  },
+  {
+    title: 'Abia State',
+    locations: [
+      'Ikeja',
+      'Agege',
+      'Shomolu',
+      'Ajah',
+      'Sangotedo',
+      'Lekki',
+      'Marryland',
+      'Ijaye',
+    ],
+  },
+  {
+    title: 'Kano State',
+    locations: [
+      'Ikeja',
+      'Agege',
+      'Shomolu',
+      'Ajah',
+      'Sangotedo',
+      'Lekki',
+      'Marryland',
+      'Ijaye',
+    ],
+  },
+  {
+    title: 'Oyo State',
+    locations: [
+      'Ikeja',
+      'Agege',
+      'Shomolu',
+      'Ajah',
+      'Sangotedo',
+      'Lekki',
+      'Marryland',
+      'Ijaye',
+    ],
+  },
+]
+
+export default locations
